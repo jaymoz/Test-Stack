@@ -1,0 +1,7 @@
+# Количество потоков на парсинг файлов
+NUM_THREADS=4
+# Адрес корневой директории с файлами и папками
+ROOT_DIRECTORY=/Users/jacobidoko/Desktop/Teststack/sample
+# Перечисление шаблонов и их замен
+<%COLOR%>=BLACK
+<%SIZE%>=10
